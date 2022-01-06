@@ -1,2 +1,2 @@
 newbranch.txt
-newbranch.txt v2 from clone
+newbranch.txt v2 from clone conflit test
